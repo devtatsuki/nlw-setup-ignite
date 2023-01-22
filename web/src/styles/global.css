@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+.ProgressIndicator {
+	transition: width 300ms cubic-bezier(0.65, 0, 0.35, 1);
+}
